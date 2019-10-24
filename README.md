@@ -1,6 +1,6 @@
 # Sweet New Project
 
-This is a cool project
+This is a cool project, check it out [here](https://bronkula.github.io/gittest).
 
 ## Index.html
 
