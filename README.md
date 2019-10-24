@@ -2,6 +2,10 @@
 
 This is a cool project
 
-## This is a Heading2
+## Index.html
 
-Isn't that nice?
+This file is the default html document of the folder.
+
+## Style.css
+
+This document is our project style guide.
